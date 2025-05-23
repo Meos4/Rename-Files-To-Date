@@ -1,3 +1,3 @@
 Usage
 -----
-python main.py path/to/directory
+`python path/to/directory`
